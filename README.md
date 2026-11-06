@@ -499,23 +499,16 @@ A visual preview of the TicTacToe++ desktop application.
 
 ### Main Menu
 
-<!-- Add your main menu screenshot here -->
-
-![TicTacToe++ Main Menu](screenshots/main-menu.png)
+<img src="tic-tac-toe%20ss1.png" width="500">
 
 ### Game Interface
 
-<!-- Add your gameplay screenshot here -->
+<img src="tic-tac-toe%20ss2.png" width="500">
 
-![TicTacToe++ Gameplay](screenshots/gameplay.png)
+### Computer AI – Hard Mode
 
-### Computer AI — Hard Mode
+<img src="tic-tac-toe%20ss3.png" width="500">
 
-<!-- Add your Hard Mode screenshot here -->
-
-![TicTacToe++ AI Mode](screenshots/hard-mode.png)
-
-*Replace the screenshot paths with your actual image files.*
 
 ---
 
